@@ -93,7 +93,6 @@ alias grep="grep --color=auto"
 alias diff="diff --color=auto"
 alias ip="ip -c=auto"
 alias wget="wget --hsts-file=${XDG_CACHE_HOME}/wget-hsts"
-[ "$TERM" = "alacritty" ] && alias ssh="TERM=xterm-256color ssh"
 
 # Command app Aliases
 # ###################
