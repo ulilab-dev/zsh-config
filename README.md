@@ -1,3 +1,3 @@
-# custom terminal zsh shell 
+# custom zsh shell 
 
 
